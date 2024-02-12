@@ -14,6 +14,10 @@ Connecting EECS students and supporting them in their professional, academic, an
 OUR VISION
 Empowering EECS students across Europe to reach their full potential in their academic, professional, and social lives in a strong and recognizable network.
 
+
+
+
+
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="546">
