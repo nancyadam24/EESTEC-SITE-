@@ -1,7 +1,8 @@
 # EESTEC-SITE
 My work on the EESTEC website has to do with the calendar of events.
 
-![image](https://github.com/nancyadam24/EESTEC-SITE-/assets/125753878/53ed3f07-22a7-4cbe-a7d1-e956cd86cf02)
+![image](https://github.com/nancyadam24/EESTEC-SITE-/assets/125753878/efccae80-56c6-4eab-a9bc-09d01326f611)
+
 
 ## EESTEC
 WHO ARE WE?
