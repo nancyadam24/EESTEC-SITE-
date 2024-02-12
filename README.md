@@ -1,6 +1,18 @@
 # EESTEC-SITE
 My work on the EESTEC website has to do with the calendar of events.
 
+![image](https://github.com/nancyadam24/EESTEC-SITE-/assets/125753878/53ed3f07-22a7-4cbe-a7d1-e956cd86cf02)
+
+## EESTEC
+WHO ARE WE?
+EESTEC, Electrical Engineering STudents' European assoCiation, brings together over 5000 Electrical Engineering and Computer Science (EECS) students from more than 20 different European countries. With 40+ branches across Europe, we are here to Power Your Future!
+
+OUR MISSION
+Connecting EECS students and supporting them in their professional, academic, and personal growth by creating an international network.
+
+OUR VISION
+Empowering EECS students across Europe to reach their full potential in their academic, professional, and social lives in a strong and recognizable network.
+
 <p align="center">
   <a href="https://yarnpkg.com/">
     <img alt="Yarn" src="https://github.com/yarnpkg/assets/blob/master/yarn-kitten-full.png?raw=true" width="546">
