@@ -58,6 +58,15 @@ Yarn wouldn't exist if it wasn't for excellent prior art. Yarn has been inspired
  - [Cargo](https://github.com/rust-lang/cargo)
  - [npm](https://github.com/npm/cli)
 
+## What I used
+- Tailwind CSS
+- Bootstrap
+- React JSX
+- Yarn
+
+## Screenshots
+![image](https://github.com/nancyadam24/EESTEC-SITE-/assets/125753878/6640174f-d7b1-47d2-a235-c9f739af9017) 
+
 ## Credits
 
 Thanks to [Sam Holmes](https://github.com/samholmes) for donating the npm package name!
